@@ -18,6 +18,8 @@ The data is extracted from Data.gov.sg and is based on Singapore, ranging over F
 - Connect to mySQL database using mysql.connector 
 - Load data into database
 ## 5. SQL Query
+<img width="589" alt="image" src="https://github.com/ShinYingChua/BTO-Flat-Price-Analysis/assets/101923627/eb348cb8-d310-4abc-b327-e2b1c3e301ed">
+
 <img width="577" alt="image" src="https://github.com/ShinYingChua/Construction-Material-and-BTO-Price/assets/101923627/185b0ec2-083a-4e60-a381-c0ca3de1be09">
 
 ## Key Findings from EDA
