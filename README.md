@@ -14,6 +14,7 @@ The data is extracted from Data.gov.sg and is based on Singapore, ranging over F
 ## 4. Load
 - Created database and respective tables to match the columns from dataframe using sql
 <img width="396" alt="image" src="https://github.com/ShinYingChua/Construction-Material-and-BTO-Price/assets/101923627/25923926-5e9a-4a6d-b807-a3fb99897454">
+
 - Connect to mySQL database using mysql.connector 
 - Load data into database
 ## 5. SQL Query
