@@ -9,14 +9,11 @@ The data is extracted from Data.gov.sg and is based on Singapore, ranging over F
 
 ## 3. Transform
 1) Columns "min_selling_price_less_ahg_shg" and "max_selling_price_less_ahg_shg" are dropped as the information is not useful.
-2) The datatype of financial year is transfromed from integer to datetime.
-3) There is presence of row with zeros values( $0 min/max selling price) and these rows are dropped.
+2) There is presence of row with zeros values( $0 min/max selling price) and these rows are dropped.
 
 ## 4. Load
 - Created database and respective tables to match the columns from dataframe using sql
 <img width="396" alt="image" src="https://github.com/ShinYingChua/Construction-Material-and-BTO-Price/assets/101923627/25923926-5e9a-4a6d-b807-a3fb99897454">
-
-
 - Connect to mySQL database using mysql.connector 
 - Load data into database
 ## 5. SQL Query
