@@ -1,8 +1,8 @@
 ## 1. Overview of the folder structure
     .
     ├── eda.ipynb                                   
-    ├── price-range-of-hdb-flats-offered.csv                    
-    └── README.md
+    ├── README.md                
+    └── price-range-of-hdb-flats-offered.csv    
     
 ## 2. Extract
 The data is extracted from Data.gov.sg and is based on Singapore, ranging over FY2008-2021. The financial year starts on 1 Apr and ends on 31 Mar.
