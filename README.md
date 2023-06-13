@@ -1,6 +1,6 @@
 ## 1. Overview of the folder structure
     .
-    ├── eda.ipynb                                   
+    ├── ETL.ipynb                                   
     ├── README.md                
     └── price-range-of-hdb-flats-offered.csv    
     
