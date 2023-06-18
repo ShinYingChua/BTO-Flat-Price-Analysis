@@ -21,7 +21,7 @@ The data is extracted from Data.gov.sg and is based on Singapore, ranging over F
 <img width="592" alt="image" src="https://github.com/ShinYingChua/BTO-Flat-Price-Analysis/assets/101923627/b55baf57-49fd-46ee-bba4-fd8c2918c1b0">
 <img width="592" alt="image" src="https://github.com/ShinYingChua/BTO-Flat-Price-Analysis/assets/101923627/f8d5a9e0-c941-4f57-b8f7-d652b9161899">
 
-## Key Findings from EDA
+## 6. Key Findings from EDA
 -  General increase in selling price of BTO flats between FY2008-2021
 -  As the BTO flats size increases, the selling price increases
 <img width="1241" alt="image" src="https://github.com/ShinYingChua/BTO-Flat-Price-Analysis/assets/101923627/2a8a68c6-ddae-48f7-82b3-58569fe0af8e">
